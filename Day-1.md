@@ -357,11 +357,11 @@ UI架构设计文档：ui-architecture.xmind
   </feature>
 ```
 	
-	*推荐文档*
+*推荐文档*
 	
-	[百度地图模块文档](http://docs.apicloud.com/Client-API/Open-SDK/bMap)
+[百度地图模块文档](http://docs.apicloud.com/Client-API/Open-SDK/bMap)
 	
-	[百度开放平台接入指南](http://docs.apicloud.com/Others/Open-SDK-Integration-Guide/baidu)
+[百度开放平台接入指南](http://docs.apicloud.com/Others/Open-SDK-Integration-Guide/baidu)
 
 - 微信登录
 ```
@@ -372,11 +372,11 @@ UI架构设计文档：ui-architecture.xmind
   </feature>
 ```
 
-	*推荐文档*
+*推荐文档*
 
-	[微信模块文档](http://docs.apicloud.com/Client-API/Open-SDK/wx)
+[微信模块文档](http://docs.apicloud.com/Client-API/Open-SDK/wx)
 	
-	[微信开放平台接入指南](http://docs.apicloud.com/Others/Open-SDK-Integration-Guide/weChat)
+[微信开放平台接入指南](http://docs.apicloud.com/Others/Open-SDK-Integration-Guide/weChat)
 
 - 个推推送
 ```
@@ -390,8 +390,9 @@ UI架构设计文档：ui-architecture.xmind
     </feature>
 ```
 
-	*推荐文档*
 
-	[个推模块文档](http://docs.apicloud.com/Client-API/Open-SDK/pushGeTui)
+*推荐文档*
 
-	[个推开放平台接入指南](http://docs.apicloud.com/Others/Open-SDK-Integration-Guide/pushGeTui_manual)
+[个推模块文档](http://docs.apicloud.com/Client-API/Open-SDK/pushGeTui)
+
+[个推开放平台接入指南](http://docs.apicloud.com/Others/Open-SDK-Integration-Guide/pushGeTui_manual)
