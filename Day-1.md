@@ -357,7 +357,7 @@ UI架构设计文档：ui-architecture.xmind
   </feature>
 ```
 	
-	*推荐文档：*
+	*推荐文档*
 	
 	[百度地图模块文档](http://docs.apicloud.com/Client-API/Open-SDK/bMap)
 	
@@ -372,7 +372,7 @@ UI架构设计文档：ui-architecture.xmind
   </feature>
 ```
 
-	*推荐文档：*
+	*推荐文档*
 
 	[微信模块文档](http://docs.apicloud.com/Client-API/Open-SDK/wx)
 	
@@ -390,7 +390,7 @@ UI架构设计文档：ui-architecture.xmind
     </feature>
 ```
 
-	**推荐文档：**
+	*推荐文档*
 
 	[个推模块文档](http://docs.apicloud.com/Client-API/Open-SDK/pushGeTui)
 
